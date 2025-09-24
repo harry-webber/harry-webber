@@ -4,14 +4,13 @@ I'm passionate about data analysis and turning complex datasets into actionable 
 
 ## 📊 Projects
 
-- **Biodiversity Analytics:** Projects like [quantifying_biodiversity](https://github.com/harry-webber/quantifying_biodiversity) and [bird_data_project](https://github.com/harry-webber/bird_data_project) where I use data to explore and understand ecological patterns.
-- **Data Storytelling:** Visualizing and communicating findings through tools like Tableau and Python data visualisation libraries.
+- **Biodiversity Analytics:** In previous solo projects like [quantifying_biodiversity](https://github.com/harry-webber/quantifying_biodiversity) and [bird_data_project](https://github.com/harry-webber/bird_data_project) I have researched and used data to explore ecological patterns.
 - **Collaborative Data Science:** Contributed to collaborative projects such as [Swanalytics](https://github.com/gdiwa23/Swanalytics) and [WHO_Project](https://github.com/rahulshaju2981/WHO_Project).
 
 ## 💡 Tools
 
 - **Languages:** Python, SQL, R
-- **Libraries:** Pandas, Streamlit
+- **Libraries:** Pandas
 - **Visualization:** Tableau, Matplotlib, Seaborn
 
 ## 📫 Contact
