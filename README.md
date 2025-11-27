@@ -5,7 +5,7 @@ I'm passionate about data analysis and turning complex datasets into actionable 
 ## 📊 Projects
 
 - **Biodiversity Analytics:** In previous solo projects like [quantifying_biodiversity](https://github.com/harry-webber/quantifying_biodiversity) and [bird_data_project](https://github.com/harry-webber/bird_data_project) I have researched and used data to explore ecological patterns.
-- **Collaborative Data Science:** Collaborated in small groups on projects such as [Swanalytics](https://github.com/gdiwa23/Swanalytics), [WHO_Project](https://github.com/rahulshaju2981/WHO_Project) and [Brazil Ecommerce](https://github.com/Jagroop-Dev/Brazilian-e-commerce-data-project) as part of my training as a data analyst with Digital Futures.
+- **Collaborative Data Science:** Collaborated in small groups on projects such as [Swanalytics](https://github.com/gdiwa23/Swanalytics), [WHO Project](https://github.com/rahulshaju2981/WHO_Project) and [Brazil Ecommerce](https://github.com/Jagroop-Dev/Brazilian-e-commerce-data-project) as part of my training as a data analyst with Digital Futures.
 
 ## 💡 Tools
 
